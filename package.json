@@ -1,0 +1,29 @@
+{
+  "name": "toptop",
+  "version": "1.0.0",
+  "description": "Dastur o'ylagan 5 harfdan iborat va o'zbek tiliga mansub so'zni 6 urinishda topishga harakat qiling!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirzobedil/toptop.git"
+  },
+  "keywords": [
+    "word",
+    "game"
+  ],
+  "author": "mirzobedil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirzobedil/toptop/issues"
+  },
+  "homepage": "https://github.com/mirzobedil/toptop#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
