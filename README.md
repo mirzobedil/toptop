@@ -7,5 +7,5 @@ Dastur o'ylagan 5 harfdan iborat va o'zbek tiliga mansub so'zni 6 urinishda topi
 ## Github manzil
 [Github](https://github.com/mirzobedil/toptop/)
 
-## Lisenziya
+## Litsenziya
 [MIT](https://choosealicense.com/licenses/mit/)
